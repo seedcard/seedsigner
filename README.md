@@ -1,4 +1,4 @@
-# seedsigner add-ons 
+# seedsigner tools
 
 **Feature Proposal: Passphrase QR Code Creation**
 
